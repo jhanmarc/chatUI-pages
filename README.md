@@ -1,5 +1,6 @@
 # Apps From Scratch | Flutter Chat UI Starter Repo
 
-Clone this repo and follow my YouTube video: [Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
+Repository guide watch the YouTube video: [Flutter Chat UI Tutorial | Applications from scratch] (https://youtu.be/h-igXZCCrrc)
 
-[Complete Chat UI](https://github.com/MarcusNg/flutter_chat_ui)
+deploy with firestore watch the following video: [Flutter Chat Application with Cloud Firestore and Firebase Authentication]
+YouTube video: https://www.youtube.com/watch?v=1bNME5FWWXk
